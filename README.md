@@ -8,6 +8,7 @@ Most prompt lists are generic. These samples use a better structure:
 
 ## Free samples
 
+- [AI Prompt Workflow Playbook](samples/ai-prompt-workflow-playbook.md) — reusable prompt specs, prompt debugging, SOPs, launch workflows, developer reviews, and visual concept systems.
 - [AI agent prompts](samples/ai-agent-prompts.md) — autonomous task briefs, QA checklists, and zero-traffic growth switchboards.
 - [Content repurposing prompts](samples/content-repurposing-prompts.md) — turn one article/video/podcast/product update into multi-platform content.
 - [Developer prompts](samples/developer-prompts.md) — code review, debugging, refactoring, docs.
