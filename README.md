@@ -8,10 +8,15 @@ Most prompt lists are generic. These samples use a better structure:
 
 ## Free samples
 
+- [AI agent prompts](samples/ai-agent-prompts.md) — autonomous task briefs, QA checklists, and zero-traffic growth switchboards.
 - [Content repurposing prompts](samples/content-repurposing-prompts.md) — turn one article/video/podcast/product update into multi-platform content.
 - [Developer prompts](samples/developer-prompts.md) — code review, debugging, refactoring, docs.
 - [Marketing prompts](samples/marketing-prompts.md) — landing pages, emails, ads, social posts.
 - [Midjourney / visual design prompts](samples/midjourney-commercial-prompts.md) — product visuals, posters, ad concepts.
+
+## Why structured prompts work better
+
+A reusable prompt should make the model ask fewer hidden questions. The best ones include the role, real context, input fields, constraints, output format, and a decision rule. That turns a one-off chat into a repeatable workflow you can use for code reviews, launches, content calendars, visual concepts, and agent tasks.
 
 ## Full PromptCraft packs
 
