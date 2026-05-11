@@ -8,11 +8,15 @@ Most prompt lists are generic. These samples use a better structure:
 
 ## Free samples
 
+- [Content repurposing prompts](samples/content-repurposing-prompts.md) — turn one article/video/podcast/product update into multi-platform content.
 - [Developer prompts](samples/developer-prompts.md) — code review, debugging, refactoring, docs.
 - [Marketing prompts](samples/marketing-prompts.md) — landing pages, emails, ads, social posts.
 - [Midjourney / visual design prompts](samples/midjourney-commercial-prompts.md) — product visuals, posters, ad concepts.
 
 ## Full PromptCraft packs
+
+- **AI Content Repurposing Prompt System** — turn one idea into 30+ content assets for X/Twitter, LinkedIn, newsletters, short clips, launches and sales assets.  
+  https://payhip.com/b/CAN9Z?utm_source=github&utm_medium=repo&utm_campaign=content_repurposing_launch&utm_content=readme_content_repurposing
 
 - **Developer's Prompt Bible** — 100+ practical prompts for debugging, code review, refactoring, tests, architecture and docs.  
   https://payhip.com/b/ADsQI?utm_source=github&utm_medium=repo&utm_campaign=promptcraft_launch&utm_content=readme_developer
