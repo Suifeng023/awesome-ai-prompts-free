@@ -8,6 +8,7 @@ Most prompt lists are generic. These samples use a better structure:
 
 ## Free samples
 
+- [AI Prompt ROI Calculator Prompts](samples/ai-prompt-roi-calculator.md) — estimate time saved, break-even point, and which AI workflows are worth automating.
 - [AI Prompt Workflow Playbook](samples/ai-prompt-workflow-playbook.md) — reusable prompt specs, prompt debugging, SOPs, launch workflows, developer reviews, and visual concept systems.
 - [AI agent prompts](samples/ai-agent-prompts.md) — autonomous task briefs, QA checklists, and zero-traffic growth switchboards.
 - [AI prompt engineering patterns](guides/ai-prompt-engineering-patterns.md) — reusable prompt structures for developer, marketing, content, and Midjourney workflows.
